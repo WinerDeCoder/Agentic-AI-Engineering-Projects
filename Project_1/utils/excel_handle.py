@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def Excel_Customer_Command_Process( file_path: str):
+def Excel_Customer_Handler( file_path: str):
     
     # Debug: Print the file path
     if not file_path:
